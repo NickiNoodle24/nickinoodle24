@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Call me Nicki!
+
+- I'm currently working on: A visual save editor for [Melvor Idle](https://melvoridle.com/)! 
+- Pronouns: He/Him
+
 <!--
 **NickiNoodle24/nickinoodle24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
